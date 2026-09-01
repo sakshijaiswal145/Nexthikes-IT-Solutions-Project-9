@@ -1,0 +1,7 @@
+streamlit
+newsapi-python
+python-dotenv
+langchain
+langchain-openai
+openai
+pytest
